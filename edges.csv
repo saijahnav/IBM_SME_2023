@@ -1,0 +1,11 @@
+Source,Target,Type,Id,Label,Weight
+150,151,Directed,0,J-S,4
+150,152,Directed,1,J-S*,2
+150,154,Directed,2,J-L,3
+151,153,Directed,3,S-A,2
+152,153,Directed,4,S*-A,2
+152,154,Directed,5,S*-L,4
+153,154,Directed,6,A-L,5
+150,153,Undirected,11,J-A,6
+153,150,Undirected,12,A-J,3
+151,152,Undirected,13,S-S*,2
